@@ -8,7 +8,7 @@
 &emsp;
 <h3 align="left">Hi 👋🏽, I'm Malchiel, DevOps and Site Reliability Engineer based in Lagos. I have a proven track record of enhancing the reliability, security, and high availability of mission-critical applications through advanced DevOps and Site Reliability Engineering (SRE) practices. 👍🏽 </h3>
 
-<h3 align="left">📫 How to reach me? I'm available right here on github and on my email: malchieluriasbusiness@gmail.com </h3>
+<h3 align="left">📫 How to reach me? I'm available right here on github and though my email: malchieluriasbusiness@gmail.com </h3>
 &emsp;
 
 -------------------
