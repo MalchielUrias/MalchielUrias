@@ -28,7 +28,7 @@
 
 &emsp;
 <a href="https://www.linkedin.com/in/malchiel-urias/">
-    ![Linkedin: Malchiel Urias](https://img.shields.io/badge/-malchiel-urias-blue?style=flat-square&logo=Linkedin&logoColor=white)
+    ![Linkedin: Malchiel Urias](https://img.shields.io/badge/-malchiel-blue?style=flat-square&logo=Linkedin&logoColor=white)
 </a>
 <a href="https://x.com/TheMalc_/">
     ![Twitter: TheMalc_](https://img.shields.io/twitter/follow/fathermalc?style=social)
