@@ -14,9 +14,8 @@
 -------------------
 &emsp;
 
-- 🔭 I’m currently building on [KubeCounty]([https://mentor.love/](https://www.linkedin.com/company/kubecounty/)), a DevOps Consulting company. 
-- 📚 I'm also doing the [Immersive Engineering Course](https://github.com/CodeYourFuture/immersive-go-course), a program aimed at Site Reliability Engineering designed by CodeYourFuture in partnership with [Slack](https://slack.com/).
-
+- 🔭 I’m currently building on [KubeCounty]([https://mentor.love/](https://www.linkedin.com/company/kubecounty/)), a DevOps Consulting company.
+  
 - 🌱 I’m currently learning **MLOps, AIOps**
 
 - 💬 Ask me anything about **AWS, Azure, Terraform, Kubernetes, and Observability**
